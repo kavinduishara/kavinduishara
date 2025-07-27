@@ -45,5 +45,3 @@ WebRTC • Machine Learning • Distributed Systems • Cybersecurity
 - GitHub: [github.com/KavinduIshara](https://github.com/KavinduIshara)
 
 ---
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
