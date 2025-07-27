@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Kavindu Ishara
 
-<!--
-**kavinduishara/kavinduishara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student | 💻 Full-Stack Developer | ⚙️ DevOps Enthusiast  
+🇱🇰 Based in Sri Lanka | 🧠 Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:**  
+Java • Python • JavaScript • HTML • CSS • SQL
+
+**Frameworks & Libraries:**  
+JavaFX • Spring Boot • Django • React • Node.js • Express
+
+**Tools & Platforms:**  
+Git • Docker • Firebase • PostgreSQL • MongoDB • Maven • Linux
+
+**Other Interests:**  
+WebRTC • Machine Learning • Distributed Systems • Cybersecurity
+
+---
+
+## 🚀 Projects
+
+- 🏪 **Store Management System** – A Java-based desktop app to manage products, sales, and inventory  
+- 🎓 **AR Management System** – A web-based academic records management platform with login, semester updates, and result tracking
+- 🎥 **WebRTC Video Call App** – A real-time video chat platform using WebRTC and Firebase
+- 🔬 **Light Lab** – A JavaFX app that simulates light ray behavior for physics education
+- 📋 **TaskFlow** – A task management desktop application built with JavaFX and Maven
+
+---
+
+## 📈 Currently Learning
+
+- MERN Stack (MongoDB, Express, React, Node.js)  
+- DevOps tools (CI/CD, Kubernetes)  
+- Machine Learning with Python
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: [linkedin.com/in/kavindu-ishara](https://www.linkedin.com/in/kavindu-ishara)
+- GitHub: [github.com/KavinduIshara](https://github.com/KavinduIshara)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
