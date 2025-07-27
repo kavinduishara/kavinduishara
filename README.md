@@ -41,7 +41,7 @@ WebRTC • Machine Learning • Distributed Systems • Cybersecurity
 
 ## 📫 Connect with Me
 
-- LinkedIn: [linkedin.com/in/kavindu-ishara](https://www.linkedin.com/in/kavindu-ishara)
+- LinkedIn: [linkedin.com/in/kavindu-ishara](www.linkedin.com/in/kavindu-ishara-356794317)
 - GitHub: [github.com/KavinduIshara](https://github.com/KavinduIshara)
 
 ---
