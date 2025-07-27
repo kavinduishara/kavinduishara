@@ -17,7 +17,7 @@ JavaFX • Spring Boot • Django • React • Node.js • Express
 Git • Docker • Firebase • PostgreSQL • MongoDB • Maven • Linux
 
 **Other Interests:**  
-WebRTC • Machine Learning • Distributed Systems • Cybersecurity
+WebRTC • Machine Learning • Distributed Systems
 
 ---
 
